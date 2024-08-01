@@ -25,3 +25,4 @@ JavaScript for client-side interactivity and validation.
 PHP for server-side logic and handling requests.
 
 MySQL for storing user data and session information.
+
